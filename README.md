@@ -4,8 +4,8 @@
 
 
 * ### 개발환경 
-  * Front : React(VS Code)
-  * back : Springboot 2.4.4(STS)
+  * Front-End : React(VS Code)
+  * back-End : Springboot 2.4.4(STS)
   * DataBase : Maria DB(DBeaver)
   * 관련 기술 : JWT, Spring Security, JPA 
 
@@ -15,6 +15,7 @@
 
 * ### 추후 개선 방안
   * Refresh Token 저장소를 RDB에서 인메모리 방식에 키-값 데이터 저장소인 Redis로 관리하여 효율적으로 관리하기
+  * React를 더 학습하여 게시판 개발해보기
 
 * ### 참고 자료
   * https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-jwt#
