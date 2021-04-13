@@ -1,6 +1,6 @@
 # springboot-react-jwt
 
-## springboot + react 를 이용한 jwt 로그인 토이 프로젝트 개발
+## springboot + react를 이용하고, Spring security와 JWT를 통해 인증 로직 구현
 
 
 * ### 개발환경 
